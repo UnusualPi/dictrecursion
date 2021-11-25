@@ -24,7 +24,7 @@ Parameters
  Example
 ---
 ```
- >>> import dictrecursion
+ >>> import DictRecursion
  >>> d = {'K.0.1': 'V.0.1',
           'K.0.2': 'V.0.2',
           'K.0.3': {'K.1.1': 'V.1.1'},
